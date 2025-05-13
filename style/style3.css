@@ -27,16 +27,18 @@ header{
 }
 
 nav{
+    margin-top: 5px;
+    font-size: 24px;
     background-color: rgb(160, 110, 110);
     width: 960px;
     display: flex;
 }
 
 nav a{
-    margin: 0 15px;
-    padding: 10px 20px;
-    color: rgb(75, 39, 10);
-    font-family: arial, sans-serif;
+    display: block;
+    text-align: center;
+    padding: 11px;
+    color: #4d1d18;
     text-decoration: none;
 }
 
