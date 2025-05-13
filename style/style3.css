@@ -49,8 +49,11 @@ nav a:hover{
  
 
 h1, h2, h3{
-   
     color: #6b2e2e;
+}
+
+h1{
+    margin-left: 25%;
 }
 
 p{
