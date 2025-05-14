@@ -1,27 +1,21 @@
 
-*{
+* {
     margin: auto;
     padding: 0;
     font-family: calibri, Arial, Helvetica, sans-serif;
     box-sizing: border-box;
-
 }
 
-
-.container{    
-width: 960px;
-display: flex;
+.container {
+    width: 960px;
+    display: flex;
 }
 
-.box{
-    width: 460px;
-}  
-
-header{
+header {
     width: 960px;
 }
 
-nav{
+nav {
     margin-top: 5px;
     font-size: 24px;
     background-color: rgb(160, 110, 110);
@@ -29,7 +23,7 @@ nav{
     display: flex;
 }
 
-nav a{
+nav a {
     display: block;
     text-align: center;
     padding: 11px;
@@ -37,46 +31,43 @@ nav a{
     text-decoration: none;
 }
 
-nav a:hover{
+nav a:hover {
     background-color: #6b2e2e;
 }
 
- 
-
-h1, h2, h3{
-   
+h1, h2, h3 {
     color: #6b2e2e;
 }
 
-p{
-   
+p {
     text-align: justify;
 }
 
-footer{
+footer {
     width: 800px;
     display: flex;
-    
 }
 
-footer p, footer img{
+footer p, footer img {
     padding: 15px;
     display: inline-block;
 }
 
-footer u{
+footer u {
     color: #6b2e2e;
     padding: 15px;
     display: inline-block;
-    
 }
 
-.ocean{
+.box {
+    width: 460px;
+}
+
+.ocean, .beach3, .bath {
     width: 450px;
     height: 300px;
 }
 
-.beach3{
-    width: 450px;
-    height: 300px;
+.bath {
+    height: 450px;
 }
