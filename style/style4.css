@@ -9,7 +9,12 @@
 
 .container{    
 width: 960px;
+display: flex;
 }
+
+.box{
+    width: 460px;
+}  
 
 
 header{
