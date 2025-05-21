@@ -21,6 +21,10 @@ header{
     width: 960px;
 }
 
+section{
+  width: 960px;    
+}
+
 nav{
     margin-top: 5px;
     font-size: 24px;
